@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "319511841335",
+    "firebase_url": "https://schoolnotes-89f9a.firebaseio.com",
+    "project_id": "schoolnotes-89f9a",
+    "storage_bucket": "schoolnotes-89f9a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:319511841335:android:cd43f011a80cfd6cd78db2",
+        "android_client_info": {
+          "package_name": "com.example.schoolnotes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "319511841335-kpj1toh23vi5dtifbom6m7v707dm10hv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.schoolnotes",
+            "certificate_hash": "786e0f7e7921ed1b7910a4216e4d2a5143ffd301"
+          }
+        },
+        {
+          "client_id": "319511841335-ma7k8jnp7r94a1ogcn2gsk48q2813orf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiWAphL88N286xrAnK977eED47_XM-XMM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "319511841335-ma7k8jnp7r94a1ogcn2gsk48q2813orf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
