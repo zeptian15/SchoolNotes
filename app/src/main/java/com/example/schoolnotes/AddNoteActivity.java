@@ -123,6 +123,9 @@ public class AddNoteActivity extends AppCompatActivity {
             case R.id.action_delete:
                 deleteNote(bundle.getString("Id"));
                 break;
+            case android.R.id.home :
+                super.onBackPressed();
+                break;
         }
         return true;
     }
